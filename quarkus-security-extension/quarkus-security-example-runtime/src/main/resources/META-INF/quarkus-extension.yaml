@@ -1,0 +1,10 @@
+name: Security extension example
+description:
+metadata:
+ keywords:
+   - security
+   - login
+# guide: ...
+ categories:
+   - "authentication"
+status: "preview"
