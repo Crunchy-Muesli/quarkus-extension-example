@@ -13,7 +13,7 @@
 
   <modules>
     <module>quarkus-security-example-deployment</module>
-    <module>quarkus-security-example-runtime</module>
+    <module>quarkus-security-example</module>
   </modules>
 
   <properties>
